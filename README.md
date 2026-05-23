@@ -217,38 +217,6 @@ Relevant object:
 get_predictii_sezoniere(p_luna_start, p_luna_end, p_limit)
 ```
 
-## DB Diagram
-
-A DBML file is included for dbdiagram.io:
-
-```text
-WatchFlix_dbdiagram.dbml
-```
-
-To generate the diagram:
-
-1. Open [dbdiagram.io](https://dbdiagram.io/).
-2. Create a new diagram.
-3. Paste the contents of `WatchFlix_dbdiagram.dbml`.
-
-## Documentation
-
-The project documentation is included as a Word document:
-
-```text
-Documentatie_Proiect_SGBD.docx
-```
-
-It contains:
-
-- business requirements;
-- normalization in BCNF / 4NF style;
-- ER/UML diagram explanation;
-- database constraints;
-- relevant SQL snippets;
-- explanation of triggers, procedures, functions;
-- placeholders for interface screenshots.
-
 ## Notes
 
 - The official database schema is defined in the SQL scripts from `DatabaseScripts/SQL`.
